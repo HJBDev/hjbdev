@@ -1,4 +1,17 @@
-### Hi there 👋
+# 🧰
+🏗 JS, TS, Vue  
+🎨 CSS, SCSS, PostCSS, Bootstrap 🤢, Tailwind  
+⚙ PHP, Laravel  
+📱 Flutter, Dart  
+
+# 📬
+[Twitter](https://twitter.com/hjbdev)  
+[Website 🔨](https://hjb.dev)  
+harry at hjb dot dev
+
+# 🔨
+[stratbook.co](https://stratbook.co)
+[openchat](https://github.com/hjbdev/openchat)
 
 <!--
 **HJBDev/hjbdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
