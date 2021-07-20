@@ -6,7 +6,7 @@
 
 # 📬
 [Twitter](https://twitter.com/hjbdev)  
-[Website 🔨](https://hjb.dev)  
+[Website](https://hjb.dev)  
 harry at hjb dot dev
 
 # 🔨
