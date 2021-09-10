@@ -1,8 +1,9 @@
 # 🧰
-🏗 JS, TS, Vue
-🎨 CSS, SCSS, PostCSS, Tailwind
-⚙ PHP, Laravel
+🏗 JS, TS, Vue <br>
+🎨 CSS, SCSS, PostCSS, Tailwind <br>
+⚙ PHP, Laravel <br>
 📱 Flutter, Dart
+
 
 # 📬
 [Twitter](https://twitter.com/hjbdev)  
