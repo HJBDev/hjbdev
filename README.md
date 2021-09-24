@@ -1,8 +1,7 @@
 # 🧰
 🏗 JS, TS, Vue <br>
 🎨 CSS, SCSS, PostCSS, Tailwind <br>
-⚙ PHP, Laravel <br>
-📱 Flutter, Dart
+⚙ PHP, Laravel
 
 
 # 📬
