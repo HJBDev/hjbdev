@@ -10,8 +10,8 @@
 harry at hjb dot dev
 
 # 🔨
-[Laravel Engine (WIP)](https://engine.hjb.dev)  
-[ukcs.gg (Coming Soon)](https://ukcs.gg)  
+[Laravel Engine](https://engine.hjb.dev) (WIP)
+[ukcs.gg](https://ukcs.gg) (Coming Soon)
 [stratbook.co](https://stratbook.co)  
 
 <!--
