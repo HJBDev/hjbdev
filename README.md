@@ -11,7 +11,7 @@ harry at hjb dot dev
 
 # 🔨
 [Laravel Engine](https://engine.hjb.dev) (WIP)   
-[ukcs.gg](https://ukcs.gg) (Coming Soon)   
+[ukcs.gg](https://ukcs.gg)
 [stratbook.co](https://stratbook.co)  
 
 <!--
