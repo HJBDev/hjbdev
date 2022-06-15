@@ -1,7 +1,7 @@
 # 🧰
 🏗 JS, TS, Vue <br>
 🎨 CSS, SCSS, PostCSS, Tailwind <br>
-⚙ PHP, Laravel
+⚙ PHP, Laravel, Golang
 
 
 # 📬
