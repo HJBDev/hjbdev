@@ -11,8 +11,8 @@ harry at hjb dot dev
 
 # 🔨
 [Laravel Engine](https://engine.hjb.dev) (WIP)   
-[ukcs.gg](https://ukcs.gg)   
-[stratbook.co](https://stratbook.co)  
+[GoRound.games](https://goround.games)   
+[stratbox.app](https://stratbox.app)  
 
 <!--
 **HJBDev/hjbdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
