@@ -1,5 +1,5 @@
 # 🧰
-🏗 JS, TS, Vue, React <br>
+🏗 JS, TS, Vue <br>
 🎨 CSS, SCSS, PostCSS, Tailwind <br>
 ⚙ PHP, Laravel, Go
 
